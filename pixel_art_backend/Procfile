@@ -1,0 +1,3 @@
+# Procfile для Railway
+web: python src/main.py
+
